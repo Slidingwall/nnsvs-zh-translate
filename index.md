@@ -15,5 +15,11 @@ some NNSVS documents' translation in Simplified Chinese. 简体中文的一些NN
 
 ### [pysinsy 说明文件](/nnsvs-zh-translation/other/pysinsy-README.html)
 
+### [utau2db 说明文件](/nnsvs-zh-translation/other/utau2db-README.html)
+
+### [utau2db 使用方法](/nnsvs-zh-translation/other/utau2db-HOWTOUSE.html)
+
+### [oto2lab 说明文件](/nnsvs-zh-translation/other/oto2lab-README.html)
+
 
 

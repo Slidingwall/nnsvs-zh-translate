@@ -5,7 +5,7 @@ some NNSVS documents' translation in Simplified Chinese. 简体中文的一些NN
 
 参见[NNSVS](/nnsvs-zh-translate/nnsvs/)
 
-## 其他依赖库文档翻译
+## 其他文档翻译
 
 ### [nnmnkiwi 说明文件](/nnsvs-zh-translate/other/nnmnkiwi-README.html)
 
